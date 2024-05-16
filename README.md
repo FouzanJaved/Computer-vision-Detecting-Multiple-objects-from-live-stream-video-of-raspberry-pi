@@ -1,0 +1,1 @@
+Code explains detection of multiple objects from live streamed video in raspberry pi using python
